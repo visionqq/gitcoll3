@@ -1,3 +1,4 @@
 master step1
 master step2
-master step2
+master step3
+master step4
